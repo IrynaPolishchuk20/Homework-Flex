@@ -1,3 +1,6 @@
+@import './blocs.css/bloc2.css';
+
+
 ul,ol,h1,h2,h3,h4,h5,h6,p,body{
     margin: 0;
     padding: 0;
@@ -119,6 +122,49 @@ body{
     color: #ffffff;
     top: 870px;
     left: 920px;
+}
+
+.bg-header .footer{
+    position: absolute;
+    color: #ffffff;
+    bottom: 50px;
+    left: 250px;
+
+}
+.bg-header .footer a{
+    color: white;
+    text-decoration: none;
+    line-height: 30px;
+    font-family: LatoR;
+    cursor: pointer;
+}
+
+.bg-header .footer li{
+    display: inline-block;
+    width: 23%;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+/* .bg-header .footer hr{
+    color: #ffffff;
+    width: 282px;
+    position: absolute;
+    bottom: 50px;
+} */
+
+.bg-header .footer span{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Montserrat";
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    bottom: 20px;
 }
 
 
