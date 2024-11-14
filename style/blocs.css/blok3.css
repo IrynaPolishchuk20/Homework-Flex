@@ -1,0 +1,30 @@
+.blok_3{
+    background: #95e1d3;
+    /* padding: 35px 0; */
+    clear: both;
+    height: 250px;
+
+}
+
+.blok3 h2{
+    font-size: 72px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Montserrat";
+    text-align: center;
+}
+
+.box1{
+    width: 380px;
+    height: 250px;
+    background-color: #95e1d3;
+    border: 1px solid #ffffff;
+}
+
+.box2{
+    width: 380px;
+    height: 250px;
+    background-color: #95e1d3;
+    border: 1px solid #ffffff;
+}

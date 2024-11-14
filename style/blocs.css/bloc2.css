@@ -47,17 +47,8 @@
     padding-bottom: 50px;
 }
 
-.blok2_img :nth-child(1) :hover{
+.blok2_img .img1:hover{
     background-image: linear-gradient(0deg, #fbe389 0%, #f48b82 100%);
-    box-shadow: 8px 11px #95e1d3;;
+    box-shadow: 11px 8px #95e1d3;;
 }
 
-.blok2_img img:nth-child(2) :hover{
-    background-image: linear-gradient(0deg, #fbe389 0%, #f48b82 100%), ;
-    box-shadow: 0 0 -8px -11px #95e1d3;;
-}
-
-.blok2_img img:nth-child(3) :hover{
-    background-image: linear-gradient(0deg, #fbe389 0%, #f48b82 100%), ;
-    box-shadow: 0 0 -8px -11px #95e1d3;;
-}
