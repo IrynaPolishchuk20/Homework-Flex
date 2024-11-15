@@ -42,23 +42,26 @@
 }
 
 .bg-header .menu {
+    width: 1200px;
     position: absolute;
     top: 30px;
     display: flex;
-    flex-direction: row-reverse;
-    justify-content: space-between;
-    align-items: end;
-    text-align: center;
+    flex-direction: row;
+    justify-content: end;
+    /* text-align: center; */
 }
 
 
-.bg-header .logo{
+.bg-header .logo a{
     font-size: 30px;
     color: #ffffff;
     font-weight: 700;
     font-family: "Montserrat";
     position: absolute;
-    display: inline-block;
+    top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
 }
 
 .bg-header .Text1{
