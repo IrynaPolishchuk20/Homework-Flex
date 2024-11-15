@@ -7,6 +7,9 @@
 
 .bg-header .orel{
     position: relative;
+}
+
+.bg-header .orel1{
     background: linear-gradient(0deg, #fbe389 0%, #f48b82 100%);
 }
 

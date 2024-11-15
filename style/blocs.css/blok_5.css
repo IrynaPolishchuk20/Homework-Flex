@@ -5,8 +5,11 @@
 }
 
 .blok_5 .img2{
-    /* opacity: 0.2; */
     position: relative;
+}
+
+.blok_5 .img5{
+    opacity: 0.3;
 }
 
 
@@ -16,7 +19,7 @@
     font-weight: 400;
     font-family: "Kaushan Script";
     text-align: center;
-    padding: 60px;
+    padding: 20px;
 }
 
 .blok_5 h3{
@@ -48,7 +51,7 @@
 
 .blok_5 .content1{
     position: absolute;
-    bottom: 0;
+    bottom: 4px;
     display: flex;
     justify-content: center;
     left: 650px;

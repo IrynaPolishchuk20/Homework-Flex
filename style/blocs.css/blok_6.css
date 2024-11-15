@@ -1,0 +1,104 @@
+.blok_6{
+    height: 905px;
+    padding-top: 150px;
+}
+
+.blok_6 h2{
+    font-size: 24px;
+    color: #333333;
+    font-weight: 400;
+    font-family: "Kaushan Script";
+    text-align: center;
+    padding: 20px;
+}
+
+.blok_6 h3{
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #333333;
+    font-weight: 700;
+    font-family: "Montserrat";
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.blok_6 .hr1{
+    width: 60px;
+    height: 3px;
+    background-color: #f38181;
+    color: #f38181;
+}
+
+.blok_6 p{
+    width: 960px;
+    height: 130px;
+    font-size: 15px;
+    line-height: 24px;
+    color: #999999;
+    font-weight: 400;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+
+.blok_6 .img6{
+    width: 450px;
+    height: 270px;
+    float: left;
+    padding-right: 15px;
+}
+.blok_6 .img7{
+    float: left;
+
+}
+
+.blok_6 table, td,th{
+    color: #999999;
+    border: 1px solid  #bbbaba;
+    border-collapse: collapse;
+    float: left;
+    width: 530px;
+}
+
+.blok_6 .contentn4 img{
+    float: left;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+}
+
+
+
+.blok_6 h6{
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #333333;
+    font-weight: 400;
+    font-family: "Montserrat";
+    display: flex;
+    align-items: start;
+    padding: 7px;
+}
+
+.blok_6 td p{
+    width: 530px;
+    height: 135px;
+    font-size: 10px;
+    line-height: 24px;
+    color: #999999;
+    font-weight: 300;
+    font-style: italic;
+    font-family: "Roboto";
+    text-align: justify;
+}
+
+.blok_6 table td{
+    height: 140px;
+}
+
+.blok_6 .contentnAll{
+    display: flex;
+    justify-content: space-between;
+
+}
+
