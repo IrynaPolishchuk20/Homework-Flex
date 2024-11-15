@@ -1,12 +1,18 @@
 .blok_3{
     background: #95e1d3;
-    /* padding: 35px 0; */
+    padding: 35px 0;
     clear: both;
     height: 250px;
 
 }
 
-.blok3 h2{
+.blok_3 li{
+    display: inline-block;
+    width: 24.5%;
+    text-align: center;
+}
+
+.blok_3 h2{
     font-size: 72px;
     text-transform: uppercase;
     color: #ffffff;

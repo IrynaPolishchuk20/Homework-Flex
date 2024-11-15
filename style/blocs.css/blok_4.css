@@ -1,0 +1,68 @@
+.blok_4 h2{
+    font-size: 24px;
+    color: #333333;
+    font-weight: 400;
+    font-family: "Kaushan Script";
+    text-align: center;
+    padding: 60px;
+}
+
+.blok_4 h3{
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #333333;
+    font-weight: 700;
+    font-family: "Montserrat";
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.blok_4 .hr1{
+    width: 60px;
+    height: 3px;
+    background-color: #f38181;
+    color: #f38181;
+}
+
+.blok_4 .textAll img{
+    float: left;
+    height:34px;
+    width: 34px;
+    margin: 10px;
+}
+
+.blok_4 .textAll h3{
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #333333;
+    font-weight: 400;
+    font-family: "Montserrat";
+    padding: 10px;
+    text-align: start;
+}
+
+.blok_4 hr{
+    clear: both;
+
+}
+
+.blok_4 .textAll p{
+    width: 290px;
+    height: 81px;
+    font-size: 15px;
+    line-height: 24px;
+    color: #999999;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+
+.blok_4 .textAll{
+    padding: 45px;
+    height: 70px;
+    width: 300px;
+    float: left;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    flex-basis: 43%;
+}
