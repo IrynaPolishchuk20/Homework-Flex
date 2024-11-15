@@ -5,9 +5,10 @@
 }
 
 .blok_5 .img2{
-    opacity: 0.2;
+    /* opacity: 0.2; */
     position: relative;
 }
+
 
 .blok_5 h2{
     font-size: 24px;
@@ -36,13 +37,31 @@
 }
 
 .blok_5 .text_4{
-    /* position: absolute; */
+    position: absolute;
     left: 700px ;
     top: 80px;
+    opacity: 1;
+}
+.blok_5 .img3{
+    height: 450px;
 }
 
 .blok_5 .content1{
     position: absolute;
-    bottom: 0px;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    left: 650px;
 }
 
+.blok_5 .img4{
+    height: 350px;
+}
+
+.blok_5 .content2{
+    position: absolute;
+    bottom: -50px;
+    display: flex;
+    justify-content: center;
+    left: 950px;
+}

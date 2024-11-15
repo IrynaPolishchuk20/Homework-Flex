@@ -5,7 +5,7 @@
      */
 }
 
-.bg-header .orel:after{
+.bg-header .orel{
     position: relative;
     background: linear-gradient(0deg, #fbe389 0%, #f48b82 100%);
 }
